@@ -1,0 +1,13 @@
+.row{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 1em;
+    margin: 0 auto;
+}
+.row > .things {
+    width: 25%;
+    text-align: center;
+}
+.top_line{
+    border-bottom: 1px solid #E6E6E6;
+}
